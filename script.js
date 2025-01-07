@@ -25,5 +25,5 @@ navigator.geolocation.getCurrentPosition((position) => {
 });
 
 // Plan routes using the Mapbox API (replace with your Mapbox token)
-const mapboxToken = 'your-mapbox-access-token';
+const mapboxToken = 'pk.eyJ1IjoicmJtMzI2NyIsImEiOiJjbTVteW85cXowNW8wMnJvaHY2dGl6OGZyIn0.9qYTleoqnFfq-bze0LT2kA';
 // Implement route planning logic if needed.
