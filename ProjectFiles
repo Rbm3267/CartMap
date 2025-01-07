@@ -1,5 +1,5 @@
 golf-cart-routes/
-├── index.html  # Main HTML file
-├── style.css   # Optional: Custom styles
-├── script.js   # Main JavaScript
-└── assets/     # Any additional assets (images, icons, etc.)
+├── index.html       # HTML file
+├── script.js        # Your JavaScript file
+├── assets/          # Folder containing images, e.g., 'golf-cart-icon.png'
+└── README.md        # Optional: Readme file for your project
